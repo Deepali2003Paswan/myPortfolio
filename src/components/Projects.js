@@ -10,7 +10,7 @@ export const Projects = () => {
     const projects = [
         {
             title: "Sorting Visualizer",
-            descrption: "The Sorting Visualizer is a web app that dynamically visualizes sorting algorithms, making it easier to understand their functionality and efficiency",
+            descrption: "The Sorting Visualizer is a web app that dynamically visualizes sorting algorithms, making it easier to understand their functionality and efficiency.",
             tech:"JavaScript",
             imgUrl : projImg1,
         },
@@ -22,7 +22,7 @@ export const Projects = () => {
         },
         {
             title: "ChatGpt",
-            descrption: "With an elegant user interface that resembles the ChatGPT app, communication with advanced GPT3 model API, and most importantly, the ability to ask the AI for help regarding JavaScript, React, or any other programming language, giving it code and translating it to another programming language, and much more",
+            descrption: "With an elegant user interface that resembles the ChatGPT app, communication with advanced GPT3 model API, and most importantly, the ability to ask the AI for help regarding any programming language, giving it code and translating it to another programming language, and much more.",
             tech:"API, JavaScript",
             imgUrl : projImg3,
         },
