@@ -1,9 +1,9 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import baanerbkg from "../assets/img/bannerbkg.jpg"
-import projImg1 from "../assets/img/project-img1.png";
-import projImg2 from "../assets/img/project-img2.png";
-import projImg3 from "../assets/img/project-img3.png";
+import projImg1 from "../assets/img/projectImg1.png";
+import projImg2 from "../assets/img/projectImg2.png";
+import projImg3 from "../assets/img/projectImg3.png";
 
 export const Projects = () => {
 
